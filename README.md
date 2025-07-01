@@ -1,2 +1,3 @@
 # NasaDayAPP
-se creara una aplicacion la cual mostrara una foto de la nasa, permetira guardarla y volverla a ver, todo esto en base a la api de la nasa
+
+NasaDayApp es una app que funciona en base a la api de picture of the day de la nada, aqui podras dale like a una foto, tener un boton de sorpresa y ver la foto del dia, junto a una opcion de descargar esta foto.
